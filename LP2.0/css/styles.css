@@ -491,7 +491,7 @@ progress {
 }
 
 .lead {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 300;
 }
 
@@ -598,7 +598,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "—�?";
 }
 
 .img-fluid {
@@ -11359,8 +11359,8 @@ textarea.form-control-lg {
   -ms-transform: translate(-50%,-50%);
   -webkit-transform: translate(-50%,-50%);
   transform: translate(-50%,-50%);
-  margin:0;/*余計な隙間を除く*/
-  padding:0;/*余計な隙間を除く*/
+  margin:0;/*余計な隙間を除�?*/
+  padding:0;/*余計な隙間を除�?*/
   font-size: 40px;/*サイズ*/
   }
   @media screen and (max-width:900px){
@@ -11371,8 +11371,8 @@ textarea.form-control-lg {
       -ms-transform: translate(-50%,-50%);
       -webkit-transform: translate(-50%,-50%);
       transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除く*/
-      padding:0;/*余計な隙間を除く*/
+      margin:0;/*余計な隙間を除�?*/
+      padding:0;/*余計な隙間を除�?*/
       font-size: 40px;/*サイズ*/
       }  
   }
@@ -11384,8 +11384,8 @@ textarea.form-control-lg {
       -ms-transform: translate(-50%,-50%);
       -webkit-transform: translate(-50%,-50%);
       transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除く*/
-      padding:0;/*余計な隙間を除く*/
+      margin:0;/*余計な隙間を除�?*/
+      padding:0;/*余計な隙間を除�?*/
       font-size: 40px;/*サイズ*/
       }  
   }
@@ -11398,8 +11398,8 @@ textarea.form-control-lg {
       -ms-transform: translate(-50%,-50%);
       -webkit-transform: translate(-50%,-50%);
       transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除く*/
-      padding:0;/*余計な隙間を除く*/
+      margin:0;/*余計な隙間を除�?*/
+      padding:0;/*余計な隙間を除�?*/
       font-size: 40px;/*サイズ*/
       }  
   }
@@ -11411,8 +11411,8 @@ textarea.form-control-lg {
       -ms-transform: translate(-50%,-50%);
       -webkit-transform: translate(-50%,-50%);
       transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除く*/
-      padding:0;/*余計な隙間を除く*/
+      margin:0;/*余計な隙間を除�?*/
+      padding:0;/*余計な隙間を除�?*/
       font-size: 40px;/*サイズ*/
       }  
   }

@@ -598,7 +598,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "—�?";
+  content: "—�?";
 }
 
 .img-fluid {
@@ -11352,88 +11352,22 @@ textarea.form-control-lg {
   position: relative;
 }
 
-.example .link-area {/*classがfaのアイコンに対して*/
-  position: absolute;
-  top: 50%;
-  left: 29%;
-  -ms-transform: translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-  margin:0;/*余計な隙間を除�?*/
-  padding:0;/*余計な隙間を除�?*/
-  font-size: 40px;/*サイズ*/
-  }
-  @media screen and (max-width:900px){
-    .example .link-area {/*classがfaのアイコンに対して*/
-      position: absolute;
-      top: 50%;
-      left: 33%;
-      -ms-transform: translate(-50%,-50%);
-      -webkit-transform: translate(-50%,-50%);
-      transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除�?*/
-      padding:0;/*余計な隙間を除�?*/
-      font-size: 40px;/*サイズ*/
-      }  
-  }
-  @media screen and (max-width:700px){
-    .example .link-area {/*classがfaのアイコンに対して*/
-      position: absolute;
-      top: 50%;
-      left: 37%;
-      -ms-transform: translate(-50%,-50%);
-      -webkit-transform: translate(-50%,-50%);
-      transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除�?*/
-      padding:0;/*余計な隙間を除�?*/
-      font-size: 40px;/*サイズ*/
-      }  
-  }
-
-  @media screen and (max-width:500px){
-    .example .link-area {/*classがfaのアイコンに対して*/
-      position: absolute;
-      top: 50%;
-      left: 45%;
-      -ms-transform: translate(-50%,-50%);
-      -webkit-transform: translate(-50%,-50%);
-      transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除�?*/
-      padding:0;/*余計な隙間を除�?*/
-      font-size: 40px;/*サイズ*/
-      }  
-  }
-  @media screen and (max-width:375px){
-    .example .link-area {/*classがfaのアイコンに対して*/
-      position: absolute;
-      top: 50%;
-      left: 49%;
-      -ms-transform: translate(-50%,-50%);
-      -webkit-transform: translate(-50%,-50%);
-      transform: translate(-50%,-50%);
-      margin:0;/*余計な隙間を除�?*/
-      padding:0;/*余計な隙間を除�?*/
-      font-size: 40px;/*サイズ*/
-      }  
-  }
-
-
-
-
-
 .flex-items{
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
-.link-area{
+.linkarea{
   position: absolute;
-  top: 20%;
-  left: 20%;
-  width:auto;
-  height:auto;
+  top: 22%;
+  left: 21%;
+  width:16%;
+  height:59%;
+  border-radius: 5%;
+  background-color: #D8CA8E;
 }
+
 
 
 #pravacyborder{
@@ -11445,31 +11379,21 @@ textarea.form-control-lg {
   color: gray;
 }
 
-.img-appstoredowload, .img-appicon{
+.img-appicon{
+  display:block;
   width: 80%;
-}
-@media screen and (max-width:900px){
-  .img-appstoredowload, .img-appicon{
-    width: 60%;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7%;
 }
 
-@media screen and (max-width:700px){
-  .img-appstoredowload, .img-appicon{
-    width: 40%;
-  }
+.img-appstoredowload{
+  display:block;
+  width: 80%;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
 }
-
-@media screen and (max-width:500px){
-  .img-appstoredowload, .img-appicon{
-    width: 25%;
-  }
-}
-
-.news-content{
-  font-size: 20px;
-}
-
-
 
 
